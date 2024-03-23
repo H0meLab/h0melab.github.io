@@ -1,3 +1,1 @@
-# HomeLab
-
-# /!\ Under Construction /!\
+# HomeLab | /!\ Under Construction /!\
