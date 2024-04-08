@@ -84,7 +84,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: All rights reserved. [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/) unless stated otherwise. Copyleft © 2024.
+references_title: Some rights reserved. CC BY-NC-ND 2.0 unless stated otherwise. Copyleft © 2024.
 
 # Build settings
 remote_theme: ia/modern-resume-theme
