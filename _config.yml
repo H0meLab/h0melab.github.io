@@ -1,0 +1,96 @@
+# Site
+repository: ia/modern-resume-theme
+favicon: images/srv.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: HomeLab
+title: Research & Development
+#email: no-spam-please-no-please-no
+#website: https://github.com/ia/modern-resume-theme
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+#twitter_username:
+github_username: h0melab
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username:
+# linkedin_username:
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username:
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: example
+#  icon: fas fa-globe
+#  url: https://www.example.com
+
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+
+
+# About Section
+about_title: Spheres of Research
+#?about_profile_image: images/profile.jpg
+about_content: |
+
+  Our work related but not limited to:
+  - Embedded Hardware;
+  - Firmware & System Software;
+  - Wide range of Operating Systems;
+  - Storage solutions & FileSystem architecture;
+  - Network technologies & Security;
+  - Wireless, Radio, Signals;
+
+  **DISCLAIMER:** _HomeLab_ is not affiliated in any way with any commercial or corporate entity.  
+
+
+content:
+  - title: Projects
+    layout: list
+    content:
+      - layout: top-middle
+        title: Coming Soon...
+        link: https://github.com/h0melab/TBA
+        additional_links:
+          - title:  [tooltip]
+            icon: fab fa-github
+            url: https://github.com/h0melab
+        quote: >
+          //
+        description: |
+          ;;
+
+
+  - title: Setups
+    layout: text
+    content: |
+      - Mini Workbench:  
+
+      ![miniworkbench](/images/homelab.jpg)
+
+# Footer
+footer_show_references: false
+#references_title: //
+
+# Build settings
+remote_theme: ia/modern-resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+#plugins:
+# - jekyll-seo-tag
