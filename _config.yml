@@ -53,6 +53,7 @@ about_content: |
   - Storage solutions & FileSystem architecture;
   - Network technologies & Security;
   - Wireless, Radio, Signals;
+    
 
   **DISCLAIMER:** _HomeLab_ is not affiliated in any way with any commercial or corporate entity.  
 
@@ -82,8 +83,8 @@ content:
       ![miniworkbench](/images/homelab.jpg)
 
 # Footer
-footer_show_references: false
-#references_title: //
+footer_show_references: true
+references_title: All rights reserved. [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/) unless stated otherwise. Copyleft © 2024.
 
 # Build settings
 remote_theme: ia/modern-resume-theme
