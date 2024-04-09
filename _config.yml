@@ -1,6 +1,6 @@
 # Site
 repository: ia/modern-resume-theme
-favicon: images/srv.ico
+favicon: images/ic.ico
 
 
 # Content configuration version
@@ -45,11 +45,14 @@ content:
   - title: Writeups
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: Coming Soon...
-        link: https://github.com/h0melab/TBA
+#        link: https://github.com/h0melab/TBA
+#        link_text: by ia
+        sub_title: Research
+        caption: ETA 2024.04
         additional_links:
-          - title:  [tooltip]
+          - title: HomeLab
             icon: fab fa-github
             url: https://github.com/h0melab
         quote: >
@@ -68,7 +71,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: Copyleft © 2024 (some rights reserved) // CC BY-NC-ND 2.0 unless stated otherwise.
+references_title: copyleft © 2024 (some rights reserved) -  - CC BY-NC-ND 2.0 unless stated otherwise.
 
 
 # Build settings
