@@ -39,7 +39,7 @@ about_content: |
 
 
 
-  **DISCLAIMER:** _HomeLab_ is not affiliated in any way with any commercial activity nor corporate entity.  
+  **DISCLAIMER:** _HomeLab_ is not affiliated in any way with commercial activity nor corporate entity.  
 
 
 content:
@@ -51,7 +51,7 @@ content:
 #        link: https://github.com/h0melab/TBA
 #        link_text: by ia
         sub_title: Research
-        caption: ETA 2024.04
+        caption: ETA 2024.08
         additional_links:
           - title: HomeLab
             icon: fab fa-github
